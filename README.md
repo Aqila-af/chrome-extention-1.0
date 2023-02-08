@@ -1,3 +1,3 @@
-# title(){return this.options.title||this.options.name}
+# chrome-extention-1.0
 
 Happy Coding!
